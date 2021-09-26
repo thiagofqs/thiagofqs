@@ -27,8 +27,7 @@
 <details>
   <summary>🦦 | Pretendo estudar</summary>
   <ul>
-    <li>C#</li>
-    <li>C++</li>
+    <li>React</li>
   </ul>
 </details>
 
