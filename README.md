@@ -3,6 +3,7 @@
 </h1>
 <p align='center'>
   <br/>
+  <a href="https://beacons.ai/thiagofqs/"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a><br/><br/>
   <a href="https://www.linkedin.com/in/thiagofqs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codepen.io/thiagofqs"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </p>
@@ -11,6 +12,7 @@
 
 <br/>
 <p>→ 🔎 Cursando Desenvolvimento de Sistemas.</p>
+<p>→ 📐 Bacharelando Engenharia de Software.</p>
 <p>→ 📖 Estudando preferencialmente HTML, CSS e JavaScript.</p>
 <p>→ 💡 Aprofundando em Front-End.</p>
 <p>→ 📚 Em busca de aprendizado.</p>
@@ -27,6 +29,8 @@
 <details>
   <summary>🦦 | Pretendo estudar</summary>
   <ul>
+    <li>Bootstrap</li>
+    <li>Tailwind</li>
     <li>React</li>
   </ul>
 </details>
