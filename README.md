@@ -6,6 +6,7 @@
   <a target="_blank" href="https://beacons.ai/thiagofqs/dev"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a><br/><br/>
   <a target="_blank" href="https://www.linkedin.com/in/thiagofqs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://codepen.io/thiagofqs"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a target="_blank" href="https://thiagofqs.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5922ff?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </p>
 
 #
