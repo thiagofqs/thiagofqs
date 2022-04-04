@@ -22,9 +22,7 @@
   <b>💻 Aprendendo</b><br/><br/>
   <a href="https://github.com/thiagofqs"><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="GML" height="40" width="40" src="https://img.utdstc.com/icon/09b/8c5/09b8c56ebaf0e8528022d175284f4ff0ba793b664086c5c5e668879cf4a06245:200"/></a>
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a>
 </p>
 
 <details>
