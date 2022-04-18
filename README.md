@@ -2,7 +2,7 @@
   👋 Hi, I'm Thiago! 🙍‍♂️
 </h1>
 <br>
-<p align='center'>My name is Thiago Freitas, I'm 18 and was born in Brazil! I've been passionate about technology since forever.</p>
+<p align='center'>My name is Thiago, I'm 18 and was born in Brazil! I've been passionate about technology since forever.</p>
 <div align='center'>
   <a target="_blank" href="https://linktr.ee/freitasdev"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a target="_blank" href="https://thiagofqs.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5922ff?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
