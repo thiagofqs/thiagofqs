@@ -1,6 +1,6 @@
 <div align='right'>
   <a href="https://github.com/thiagofqs/thiagofqs/blob/main/README.md">🇧🇷</a>
-  <a href="https://github.com/thiagofqs/thiagofqs/blob/main/README2.md">🇺🇲</a>
+  <a href="https://github.com/thiagofqs/thiagofqs/blob/main/README2.md">🇺🇸</a>
 </div>
 <h1 align='center'>
   👋 Hi, I'm Thiago! 🙍‍♂️
