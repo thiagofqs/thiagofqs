@@ -3,25 +3,35 @@
 </h1>
 <br>
 <p align='center'>My name is Thiago, I'm 18 yo and was born in Brazil! I've been passionate about technology since forever.</p>
+<p align='center'>I don't have many public repositories, sorry!</p>
 <div align='center'>
   <a target="_blank" href="https://linktr.ee/freitasdev"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a target="_blank" href="https://thiagofqs.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5922ff?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a target="_blank" href="https://github.com/thiagofqs?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5922ff?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </div>
+<br>
+<table align='right'>
+  <row>
+    <td>
+      <a href="https://github.com/thiagofqs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofqs&layout=compact&langs_count=8&theme=tokyonight"></a>
+    </td>
+  </row>
+</table>
   
   ##
   
 <br>
-<p>→ 📐 I'm studying Software Engineering in college.</p>
-<p>→ 📚 Studying HTML, CSS and JavaScript.</p>
+<p>→ 📐 I'm studying Software Engineering.</p>
+<p>→ 📚 Studying JavaScript, NodeJS and MySQL.</p>
 <p>→ 🎨 Improving the Front-End.</p>
 <p>→ 💡 Day after day learning.</p>
 
 <div align='center'>
-  <b>🚀 Languages (Studying)</b><br><br>
+  <b>🚀 Skills (Studying)</b><br><br>
   <a href="https://github.com/thiagofqs"><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a>
 </div>
 <br>
 <p align='center'>
@@ -36,18 +46,18 @@
 <details>
   <summary>🐧 | I want to study</summary>
   <ul>
+    <li><a target="_blank" href="https://github.com/thiagofqs"><img height="16px" width="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a> Docker</li>
     <li><a target="_blank" href="https://github.com/thiagofqs"><img height="16px" width="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a> C#</li>
     <li><a target="_blank" href="https://github.com/thiagofqs"><img height="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a> React</li>
   </ul>
 </details>
 
-  ## 📊 My Github Stats
+  ## 📊 Commits
 
 <br>
 <div align='center'>
   <a href="https://github.com/thiagofqs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofqs&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofqs&layout=compact&langs_count=8&theme=tokyonight"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagofqs&show_icons=true&theme=tokyonight"></a>
 </div>
 
   ## ⭐ Social & Contacts
