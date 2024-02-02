@@ -16,7 +16,7 @@
   </row>
 </table>
 
-## ❓ Sobre-mim
+## ❓ About me
 
 -   🎓 Information Systems Student;
 -   💻 Systems Development Technician;
