@@ -59,14 +59,13 @@
     <li><a href="https://github.com/thiagofqs"><img align="center" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></a> TypeScript</li>
     <li><a href="https://github.com/thiagofqs"><img align="center" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a> React</li>
     <li><a href="https://github.com/thiagofqs"><img align="center" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a> Docker</li>
-    <li><a href="https://github.com/thiagofqs"><img align="center" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/></a> Tailwind CSS</li>
   </ul>
 </details>
 
 ## 📊 Atividade
 
 <div align="center">
-  <a href="https://github.com/thiagofqs"><img src="https://github-readme-stats.vercel.app/api?username=thiagofqs&show_icons=true&theme=tokyonight"></a>
+  <a href="https://github.com/thiagofqs"><img src="https://github-readme-stats.vercel.app/api?username=thiagofqs&show_icons=true&theme=tokyonight&rank_icon=github"></a>
   <a href="https://github.com/thiagofqs"><img src="https://streak-stats.demolab.com?user=thiagofqs&mode=weekly&theme=tokyonight"></a>
 </div>
 
